@@ -1,3 +1,4 @@
+<script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "EventReservation",
@@ -30,3 +31,4 @@
     "name": "Create account"
   }
 }
+</script>
